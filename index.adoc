@@ -1,0 +1,135 @@
+= L'apprentissage dans le métier de développeur
+Julien Tanguy
+v2.0, 2017-12-12: Humantalks Nantes Décembre 2017
+:twitter: jutanguy
+:github: jtanguy
+:lang: fr
+:blog: https://jtanguy.cleverapps.io
+:backend: revealjs
+:copyright: CC BY 4.0
+:source-highlighter: highlightjs
+:revealjsdir: reveal.js
+:revealjs_display: flex
+:revealjs_theme: valwin
+
+[.two-columns]
+== `whoami`
+
+image::images/jutanguy.jpg[]
+
+[.align-left]
+--
+- Développeur web @ https://www.valwin.fr[Valwin]
+
+//
+
+- https://twitter.com/{twitter}
+- https://github.com/{github}
+--
+
+== Apprentissage
+
+[quote, Damien Cavaillès, https://medium.jechercheundev.fr]
+___________________
+Développeurs, apprendre est notre métier !
+___________________
+
+=== En tant que développeur
+
+* Nouvelles technologies <<javascript-fatigue>>
+* Nouveaux outils 
+* Nouveaux _paradigmes_
+
+=== En tant que designer
+
+* Partage bonnes pratiques
+* Veille design
+* Nouveaux outils
+
+=== En tant qu'_humain_
+
+* Découvrir de nouvelles choses
+* Ouvrir son esprit
+* Rencontrer de nouvelles personnes
+
+== Veille techno
+
+== Méthodes
+
+=== Méthode _La RACHE_
+
+[.step]
+. Problème/bug dans son code
+. Google
+. StackOverflow
+. _Repeat_
+
+=== Méthode bibliographique
+
+[.step]
+. Acheter des livres
+. Ne pas prendre le temps de les lire
+. Prendre le temps de les lire
+. _Repeat_
+
+=== Variante: Méthode exhaustive
+
+[.step]
+. Traîner sur Twitter/HN/Lobsters
+. Lire un article de blog
+. Relire l'article de blog jusqu'à compréhension
+. _Repeat_
+
+=== Méthode expérimentale
+
+[.step]
+. Traîner sur Twitter/HN/Lobsters/Github
+. Voir des technos sympas
+. Coder des protos le soir/weekend
+. _Repeat_
+
+=== Méthode talk
+
+[.step] 
+. Traîner sur Twitter/HN/Lobsters/Github
+. Voir des technos sympas
+. En faire des talks
+. _Repeat_
+
+=== Méthode statistique
+
+[.step] 
+. Traîner sur Twitter/HN/Lobsters/Github
+. Lire un article de blog, sans chercher à le comprendre/retenir
+. _Repeat_
+
+== Méthode statistique
+
+* Repose sur une bonne sélection de personnes à suivre
+
+___________________
+Si une techno est intéressante, elle reviendra souvent dans la liste
+___________________
+
+=== Outils
+
+- Pocket
+- Playlists youtube
+
+=== Entrants
+
+- Twitter
+- HackerNews/Lobsters
+- Medium
+- Youtube
+
+=== Important
+
+* Prendre du temps pour lire les articles
+
+== Liens
+
+[bibliography]
+- [[[thedamfr-learning]]] Damien Cavaillès. Développeurs, apprendre est notre métier. https://medium.jechercheundev.fr/d%C3%A9veloppeurs-apprendre-est-notre-m%C3%A9tier-42b32a52807e
+- [[[javascript-fatigue]]] Eric Clemmons. Javascript fatigue. https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4
+
